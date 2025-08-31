@@ -1,0 +1,6 @@
+numLanes=2
+arrivalRate=3
+lightGreenDuration=10
+lightRedDuration=7
+simulationDuration=60
+vehicleTypes=Car,Truck,Bus
