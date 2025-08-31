@@ -3,8 +3,7 @@
 A universal tow hook cover (Ø50 mm) with a snap-fit lip and small eyelet tab for tethering.  
 Designed for automotive bumpers, printable in PLA/PETG/ABS.
 
-## Preview
-![Tow Hook Cover](tow_hook_cover.png)
+
 
 ## Dimensions (mm)
 - Face: Ø50 × 5 thick  
@@ -23,4 +22,4 @@ Designed for automotive bumpers, printable in PLA/PETG/ABS.
 - Add a zip tie through the eyelet to keep the cap tethered so it doesn’t get lost.
 
 ## License
-MIT © 2025 Jonathan Huynh
+Harvard © 2025 Jonathan Huynh
